@@ -35,35 +35,44 @@ matplotlib
 seaborn
 scikit-learn
 
-
 Depois, execute o comando abaixo para instalar todas as dependências de uma só vez:
 
-pip install -r requirements.txt
-Como executar
+`pip install -r requirements.txt`
 
-Certifique-se de ter o arquivo SIM2024.csv na mesma pasta do script Python.
+---
+
+### Como executar
+
+Certifique-se de ter o arquivo SIM2024.csv na mesma pasta do script Python. O mesmo pode ser baixado [nesse link](https://drive.google.com/file/d/1CD-v127jM66qooATE1nMgLVoZD2_Xnn7/view).
+
 
 Abra o terminal ou prompt de comando e navegue até a pasta do projeto.
 
 Execute o script principal:
 
-- python nome_do_arquivo.py
+`- python main.py`
 
 A interface gráfica será aberta, permitindo selecionar cada gráfico ou proposta de estudo.
 
-Observações
+---
 
-Cada gráfico abre em uma janela própria, com informações detalhadas e texto explicativo.
+## Observações
 
-O scroll está habilitado para gráficos e textos maiores, permitindo fácil visualização de todos os dados.
+- Cada gráfico abre em uma janela própria, com informações detalhadas e texto explicativo.
 
-Para sair da aplicação, basta clicar no botão Sair na janela principal.
+- O scroll está habilitado para gráficos e textos maiores, permitindo fácil visualização de todos os dados.
 
-Licença
+- Para sair da aplicação, basta clicar no botão Sair na janela principal.
+
+---
+
+## Licença
 
 Este projeto é destinado a fins acadêmicos e educativos.
 
-Autor
+---
+
+## Autor
 
 Arlen Ferreira da Silva Filho
 Centro de Informática - UFPE
